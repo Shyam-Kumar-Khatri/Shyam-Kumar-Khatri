@@ -465,6 +465,16 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
 
 <!--
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Kumar-Khatri&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+-->
+
+
+<!--
+<p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Shyam-Kumar-Khatri" alt="Contribution Stats"/>
 </p>
 -->
