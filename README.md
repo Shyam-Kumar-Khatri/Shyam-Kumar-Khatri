@@ -43,7 +43,7 @@
 </table>
 
 ### 📜 In My Lore
-<details>
+<!-- <details> -->
   <summary><strong>✨📜✨ What this Domain Expansion Really Means ✨📜✨</strong></summary>
   <br>
 
@@ -74,7 +74,7 @@ A recursive thinker. A poetic builder.
 **A guild member.**
 
 🐾 _Welcome to the fold._
-</details>
+<!-- </details> -->
 
 <!--
 <div align="center">
@@ -84,7 +84,7 @@ A recursive thinker. A poetic builder.
 
 <hr>
 <div  align="center">
-  <h1>🧊 Yo, This is Shyam! Code Name - 🎩 Dot Slash </h1>
+  <h1>🧊 Yo, This is Shyam! Code Name - 🎩 DotSlash </h1>
 </div>
 
 <!--
@@ -405,7 +405,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
             <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
           </a>
           <br>
-          <a href="https://discord.com/users/YOUR_USER_ID" target="_blank">
+          <a href="https://discord.com/users/shyamkumarkhatri" target="_blank">
             <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
           </a>
           <a href="https://github.com/Shyam-Kumar-Khatri" target="_blank">
