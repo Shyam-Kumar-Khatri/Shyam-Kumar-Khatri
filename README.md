@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img height="280" src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/jin%20mu%20won%20welcome_02.gif"  />
+  <img height="280" src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/jin%20mu%20won%20welcome_02(2).gif"  />
 </div>
 <hr>
 
@@ -37,7 +37,7 @@
       </div>
     </td>
     <td width="60%">
-      <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/download.gif">
+      <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/cat_protocol_01.gif">
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ A recursive thinker. A poetic builder.
 <table>
   <tr>
     <td width="40%">
-      <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/introduction.gif" width="100%" />
+      <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/introduction(2).gif" width="100%" />
     </td>
     <td width="60%">
         <h3>👤 Profile Metadata</h3>
@@ -178,7 +178,7 @@ A recursive thinker. A poetic builder.
 </div>
 
 <div align="center">
-  <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/edward_01.gif" width="350px" alt="Dev GIF"/>
+  <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/edward_01(1).gif" width="350px" alt="Dev GIF"/>
 </div>
 
 <br/>
@@ -239,7 +239,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
 <div align="center">
   <h2>⚔️ Skillset: The Powers I Possess </h2>
   <p><b>“These are not just tools... they are my familiars.” 🧙‍♂️</b></p>
-  <img align="center" src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_Powers.gif" alt="Power aura" width="400"/><br>
+  <img align="center" src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_Powers(2).gif" alt="Power aura" width="400"/><br>
   · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
 </div>
 
@@ -263,7 +263,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
       </td>
       <td align="center" width="30%">
         <!-- GIF on Right -->
-        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_01_01.gif" alt="Frontend spell" width="250"/>
+        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_01_01(1).gif" alt="Frontend spell" width="250"/>
       </td>
     </tr>
   </table>
@@ -279,7 +279,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
     <tr>
       <td align="center" width="30%">
         <!-- GIF on Right -->
-        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_02_01.gif" alt="Backend magic" width="250"/>
+        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_02_01(1).gif" alt="Backend magic" width="250"/>
       </td>
       <td align="center" width="70%">
         <!-- Tech Badges centered in the cell -->
@@ -310,7 +310,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
         </p>
       </td>
       <td align="center" width="30%">
-        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_03_01.gif" alt="DevOps summoning" width="250"/>
+        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_03_03.gif" alt="DevOps summoning" width="250"/>
       </td>
     </tr>
   </table>
@@ -323,7 +323,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
   <table>
     <tr>
       <td align="center" width="30%">
-        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_hexcore_02.gif" alt="AI matrix" width="250"/>
+        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_hexcore_03.gif" alt="AI matrix" width="250"/>
       </td>
       <td align="center" width="70%">
         <p align="center">
@@ -353,7 +353,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
         </p>
       </td>
       <td align="center" width="30%">
-        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_04.gif" alt="Automation scroll" width="250"/>
+        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_04_01.gif" alt="Automation scroll" width="250"/>
       </td>
     </tr>
   </table>
@@ -366,7 +366,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
   <table>
     <tr>
       <td align="center" width="30%">
-        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_05_02.gif" alt="Tools magic" width="250"/>
+        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/skills_05_03.gif" alt="Tools magic" width="250"/>
       </td>
       <td align="center" width="70%">
         <p align="center">
@@ -390,7 +390,7 @@ A full-stack travel listing and review platform built with Node.js, MongoDB, and
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/connect%20with%20me.gif" alt="Connect with me" width="250"/>
+        <img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/connect%20with%20me(1).gif" alt="Connect with me" width="250"/>
       </td>
       <!-- Contact Buttons -->
       <td align="center" width="50%">
@@ -509,7 +509,7 @@ and your smile hide just the right amount of chaos. 😼
 And remember... curiosity may have killed the cat,  
 but recursion brought it back. 🐾
 
-<img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/bye%20bye.gif" alt="Ichimaru Gin Bye Bye" width="300"/>
+<img src="https://github.com/Shyam-Kumar-Khatri/Shyam-Kumar-Khatri/blob/main/assets/bye%20bye_02.gif" alt="Ichimaru Gin Bye Bye" width="300"/>
 <hr>
 </div>
 
